@@ -1,1 +1,1 @@
-This repository contains my weekly reports and project report for the course: 02807 Computational Tools for Big Data @ DTU, 2016.
+This repository contains my reports and project codes for the course: 02807 Computational Tools for Big Data @ DTU, 2016.
